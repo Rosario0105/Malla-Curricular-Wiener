@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Malla Curricular Interactiva</title>
-  <style>
-    body{font-family:Arial,Helvetica,sans-serif;margin:0 auto;max-width:900px;padding:24px;background:#f7fbff}
-    h1{color:#0b6eb6;margin-bottom:32px;text-align:center}
-    .ciclo{border:1px solid #d0e3ff;border-radius:10px;margin-bottom:18px;background:#fff;box-shadow:0 2px 4px rgba(0,0,0,.06)}
-    .ciclo-header{padding:14px 18px;font-size:1.1rem;font-weight:700;color:#0b6eb6;cursor:pointer;display:flex;justify-content:space-between;align-items:center}
-    .cursos{display:none;padding:0 18px 14px}
-    .curso{margin:6px 0;padding:6px 10px;border-radius:6px;background:#e8f3ff}
-    .rotate{transform:rotate(90deg);transition:.2s}
-    .rotate.open{transform:rotate(270deg)}
-  </style>
-</head>
-<body>
-
 <h1>Malla Curricular Interactiva</h1>
 
 <!-- ======== Ciclos ======== -->
